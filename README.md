@@ -16,9 +16,9 @@ MakeYourAwesomePortfolio is a dynamic and customizable portfolio-building applic
 ---
 
 ## Technologies Used
-- **Frontend**: HTML, CSS, JavaScript (or frameworks like React if applicable).
-- **Backend**: Node.js, Express.js (or your choice).
-- **Database**: MongoDB/MySQL/PostgreSQL (as applicable).
+- **Frontend**: HTML, CSS, JavaScript (Vuejs and NUXT).
+- **Backend**: PHP & Laravel.
+- **Database**: PostgreSQL.
 - **Deployment**: Deployed using Laragon for local development and pushed to GitHub for version control.
 
 ---
